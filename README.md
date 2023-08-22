@@ -1,5 +1,37 @@
 # mern-ecommerce
+-MERN E-commerce application
 
+-Authentication and Authorization signUp and signIn 
+
+-JWT 
+
+-Profile page for the user 
+
+-roles admin and user
+
+-CRUD we Create Post, Read Posts, Update Posts, Delete Posts
+
+-categories
+
+-filter and sort for products
+
+-Product single page
+
+-cart page and add product to basket
+
+-checkout page and payment method
+
+-visa payment
+
+-Admin Dashboard
+
+-Create, Update, Delete, Read, all the Products.
+
+-Create, Update, Delete, Read, all the users.
+
+-chart analysis for sells
+
+-calculating revenue
 
 ![screenShot-1](https://github.com/nasrimhdn/mern-ecommerce/blob/main/ReadMe/Screenshot%202023-08-22%20at%2011.54.43%20AM.png)
 ![screenShot-2](https://github.com/nasrimhdn/mern-ecommerce/blob/main/ReadMe/Screenshot%202023-08-22%20at%2011.54.52%20AM.png)
